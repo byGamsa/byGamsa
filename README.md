@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Lars!
 
 ### 🚀 Media Informatics Student & Passionate Developer  
 With **10+ years of programming experience**, I have been immersed in the world of coding since my early years. From designing **dynamic websites** to building **scalable software solutions** and crafting intuitive **mobile apps**, I have successfully brought countless ideas to life.
