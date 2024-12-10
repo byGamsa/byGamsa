@@ -20,9 +20,9 @@ I love tackling complex challenges, learning new technologies, and creating eleg
 ---
 
 ### 📫 Let’s Connect!  
-- 🌐 **[Your Portfolio Website](https://www.larsgerigk.de)**  
+- 🌐 **[Portfolio](https://www.larsgerigk.de)**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lars-gerigk/)  
-- 📧 [Your Email Address](larsgerigk@gmx.de)
+- 📧 [Email](larsgerigk@gmx.de)
 
 ---
 
