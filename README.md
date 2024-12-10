@@ -9,9 +9,9 @@ To transform creativity into innovative, user-centric digital solutions. Let's c
 ---
 
 ### 🛠️ Skills & Technologies  
-- **Programming Languages**: JavaScript, Python, Java, C#, and more.  
-- **Frameworks & Libraries**: React, Angular, Node.js, Django.  
-- **Mobile Development**: Flutter, Swift, Kotlin.  
+- **Programming Languages**: JavaScript, Python, Java, C#, C++ and more.  
+- **Frameworks & Libraries**: React, Angular, Node.js, ...  
+- **Mobile Development**: Flutter, ReactNative, ...  
 - **Other Tools**: Git, Docker, Kubernetes.  
 
 ### 🌟 What Drives Me  
@@ -20,10 +20,9 @@ I love tackling complex challenges, learning new technologies, and creating eleg
 ---
 
 ### 📫 Let’s Connect!  
-- 🌐 **[Your Portfolio Website](#)**  
-- 💼 [LinkedIn](#)  
-- 🐦 [Twitter](#)  
-- 📧 [Your Email Address](#)
+- 🌐 **[Your Portfolio Website](https://www.larsgerigk.de)**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lars-gerigk/)  
+- 📧 [Your Email Address](larsgerigk@gmx.de)
 
 ---
 
