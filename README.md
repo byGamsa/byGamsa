@@ -9,25 +9,11 @@
 
 I build web applications from the interface down to the server they run on. With two co-founders I run [Dendree](https://dendree.com), a studio in Stuttgart that builds web platforms, apps and AI tools for companies. Alongside that I work on a web application at Mercedes-Benz and study Media Informatics at Stuttgart Media University (HdM).
 
-### Now
-
-- **Dendree** · Co-founder since 2025. Frontend and backend with Next.js, FastAPI and Supabase, plus the server setup with Terraform and Docker.
-- **Mercedes-Benz AG** · Full-stack developer since 2025 on the central web app for retrofitting special equipment, working on billing and internal interfaces.
-- **Nextise GmbH** · Portfolio manager since 2023. I design and teach software trainings and lead a team of developers.
-- **HdM Stuttgart** · B.Sc. Media Informatics, focused on web development, databases, AI and VR.
-
 ### Selected work
 
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| [pulse-audio-visualizer](https://github.com/byGamsa/pulse-audio-visualizer) | Real-time audio visualizer with HDR bloom, playlists and native WASAPI capture | `React` `three.js` `Tauri` |
-| [speech-interaction-ai](https://github.com/byGamsa/speech-interaction-ai) | Tests how well Piper text-to-speech holds up in noise, transcribed with Whisper and scored by word and character error rate | `Python` `Whisper` |
-| [slt-ai](https://github.com/byGamsa/slt-ai) | Image classifier that sorts waste into the bins available at HdM | `Python` `Jupyter` |
-| [unity-cave-gen](https://github.com/byGamsa/unity-cave-gen) | Procedural caves from voxel data, meshed with marching cubes | `C#` `Unity` |
-| [sdi](https://github.com/byGamsa/sdi) | Infrastructure as code exercises for the Software Defined Infrastructure course, with docs | `Terraform` `VitePress` |
-| [voicemeeter-xeneon-widget](https://github.com/byGamsa/voicemeeter-xeneon-widget) | Voicemeeter widget for the Corsair XENEON EDGE | `iCUE` |
+<p><a href="https://github.com/byGamsa/pulse-audio-visualizer"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/pulse-dark.png"><img src=".github/assets/tiles/pulse-light.png" width="420" alt="Pulse: real-time audio visualizer with HDR bloom, playlists and native audio capture. React, three.js, Tauri."></picture></a><a href="https://dendree.com"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/dendree-dark.png"><img src=".github/assets/tiles/dendree-light.png" width="420" alt="Dendree: our studio platform with one sign-in for every app, time tracking, webmail and accounts. Next.js, FastAPI, Supabase, Terraform."></picture></a><a href="https://github.com/byGamsa/DataBack"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/databack-dark.png"><img src=".github/assets/tiles/databack-light.png" width="210" alt="DataBack: terminal tool for incremental PostgreSQL backups and restores. Java, PostgreSQL."></picture></a><a href="https://github.com/byGamsa/slt-ai"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/waste-dark.png"><img src=".github/assets/tiles/waste-light.png" width="210" alt="Waste classifier: image classifier that sorts waste into the bins available at HdM."></picture></a><a href="https://github.com/byGamsa/speech-interaction-ai"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/speech-dark.png"><img src=".github/assets/tiles/speech-light.png" width="210" alt="Speech in noise: word error rate of Piper text-to-speech under white, pink and blue noise, transcribed with Whisper."></picture></a><a href="https://github.com/byGamsa/sdi"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/assets/tiles/sdi-dark.png"><img src=".github/assets/tiles/sdi-light.png" width="210" alt="Infrastructure as code: Terraform exercises on Hetzner Cloud for the Software Defined Infrastructure course."></picture></a></p>
 
-Most of my client and Dendree work lives in private repositories.
+More on [my profile](https://github.com/byGamsa?tab=repositories). Most of my client and Dendree work lives in private repositories.
 
 ### Stack
 
