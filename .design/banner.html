@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Profile banner</title>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Host+Grotesk:wght@300..800&display=block" rel="stylesheet">
+<style>
+  /* Rendered to .github/assets/banner-{light,dark}.png by render.sh. Transparent outside the card. */
+  :root {
+    --card: #ffffff; --border: #e3e3e3; --ink: #0a0a0a; --soft: #525252; --faint: #8a8a8a;
+    --line: #dcdcdc; --accent: #5a45b9; --node: #ffffff;
+  }
+  .dark {
+    --card: #0a0a0a; --border: #2a2a2a; --ink: #f3f3f3; --soft: #aaaaaa; --faint: #767676;
+    --line: #333333; --accent: #9388ec; --node: #0a0a0a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { background: transparent; }
+  body { width: 1200px; height: 420px; padding: 1px; font-family: 'Host Grotesk', sans-serif; -webkit-font-smoothing: antialiased; }
+  .card {
+    width: 100%; height: 100%;
+    border-radius: 28px;
+    background: var(--card);
+    box-shadow: inset 0 0 0 1px var(--border);
+    padding: 50px 64px 48px;
+    display: flex; flex-direction: column;
+  }
+  .meta { font-family: 'Geist Mono', monospace; font-size: 18px; color: var(--faint); letter-spacing: 0.01em; }
+  h1 {
+    margin-top: 22px;
+    font-weight: 450; font-size: 104px; line-height: 0.92; letter-spacing: -0.048em; color: var(--ink);
+  }
+  h1 span { color: var(--accent); }
+  .sub { margin-top: 18px; font-size: 27px; line-height: 1.35; color: var(--soft); letter-spacing: -0.012em; }
+
+  .line { margin-top: auto; position: relative; display: grid; grid-template-columns: repeat(4, 1fr); }
+  .line::before {
+    content: ''; position: absolute; left: 6px; right: 0; top: 6px; height: 1.5px;
+    background: linear-gradient(90deg, var(--line) 0%, var(--line) 30%, var(--accent) 100%);
+  }
+  .step { position: relative; padding-top: 26px; }
+  .step::before {
+    content: ''; position: absolute; left: 0; top: 0; width: 13px; height: 13px; border-radius: 50%;
+    background: var(--node); box-shadow: inset 0 0 0 1.5px var(--faint);
+  }
+  .step.now::before { background: var(--accent); box-shadow: none; }
+  .step b { display: block; font-weight: 500; font-size: 20px; color: var(--ink); letter-spacing: -0.01em; }
+  .step i { display: block; font-style: normal; font-family: 'Geist Mono', monospace; font-size: 15.5px; color: var(--faint); margin-top: 4px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <p class="meta">github.com/byGamsa</p>
+  <h1>Lars Gerigk<span>.</span></h1>
+  <p class="sub">Full-stack developer and co-founder of Dendree, based in Stuttgart.</p>
+  <div class="line">
+    <div class="step"><b>HdM Stuttgart</b><i>2023 · Media Informatics</i></div>
+    <div class="step"><b>Nextise</b><i>2023 · Portfolio manager</i></div>
+    <div class="step"><b>Mercedes-Benz</b><i>2025 · Full-stack developer</i></div>
+    <div class="step now"><b>Dendree</b><i>2025 · Co-founder</i></div>
+  </div>
+</div>
+<script>if (location.search.includes('dark')) document.documentElement.classList.add('dark');</script>
+</body>
+</html>
